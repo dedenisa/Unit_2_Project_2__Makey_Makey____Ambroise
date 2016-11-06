@@ -10,5 +10,5 @@ of the makey makey and you need to touch the alluminium that is on the shapes wi
 <p> My inspiration of my prject, is the arcade game where you have to punch the punching ball and the machine gives you a score. But I
 wanted to change my game a little bit, instead of having a score, you would have sentences that would come out and say soemthing.</p>
 
-<img src = "http://i.imgur.com/undefined.jpg">
+<img src = "http://i.imgur.com/1OdvQTI.jpg">
 <img src = "http://i.imgur.com/5oW6rwb.jpg">
